@@ -1,0 +1,45 @@
+{
+  "name": "timoideas",
+  "displayName": "Timoideas Temas & Iconos",
+  "description": "Themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "publisher": "FernandoTimo",
+  "author": {
+    "name": "Fernando Timo"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/FernandoTimo/Settings",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FernandoTimo/Settings"
+  },
+  "bugs": {
+    "url": "https://github.com/FernandoTimo/Settings/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Timoideas - Diamod",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Diamond.json"
+      },
+      {
+        "label": "Timoideas - Emerald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Emerald.json"
+      },
+      {
+        "label": "Timoideas - Ruby",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ruby.json"
+      }
+    ]
+  },
+  "icon": "logo.png"
+}
