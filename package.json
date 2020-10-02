@@ -28,17 +28,17 @@
       {
         "label": "Timoideas - Diamod",
         "uiTheme": "vs-dark",
-        "path": "./themes/Diamond.json"
+        "path": "./themes/Diamante.json"
       },
       {
         "label": "Timoideas - Emerald",
         "uiTheme": "vs-dark",
-        "path": "./themes/Emerald.json"
+        "path": "./themes/Esmeralda.json"
       },
       {
         "label": "Timoideas - Ruby",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ruby.json"
+        "path": "./themes/Rubi.json"
       }
     ]
   }
