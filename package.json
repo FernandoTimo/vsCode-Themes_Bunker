@@ -2,7 +2,7 @@
   "name": "timoideas-themes",
   "displayName": "Timoideas - Themes",
   "description": "Themes",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "engines": {
     "vscode": "^1.12.0"
   },
@@ -26,17 +26,22 @@
   "contributes": {
     "themes": [
       {
-        "label": "Timoideas - Diamod",
+        "label": "Timoideas - [Dark] Diamante",
         "uiTheme": "vs-dark",
         "path": "./themes/Diamante.json"
       },
       {
-        "label": "Timoideas - Emerald",
+        "label": "Timoideas - [Dark] Obsidiana",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Obsidiana.json"
+      },
+      {
+        "label": "Timoideas - [Dark] Esmeralda",
         "uiTheme": "vs-dark",
         "path": "./themes/Esmeralda.json"
       },
       {
-        "label": "Timoideas - Ruby",
+        "label": "Timoideas - [Dark] Ruby",
         "uiTheme": "vs-dark",
         "path": "./themes/Rubi.json"
       }
