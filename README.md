@@ -12,4 +12,4 @@
 
 **_Windows_**
 
-![Esmeralda](https://github.com/FernandoTimo/vsCode-Themes/blob/master/images/Themes/Esmeralda_Windows.jpg?raw=true)
+![Esmeralda](https://github.com/FernandoTimo/vsCode-Themes/blob/master/images/Themes/Esmeralda-Windows.jpg?raw=true)
