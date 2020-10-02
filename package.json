@@ -6,18 +6,19 @@
   "engines": {
     "vscode": "^1.12.0"
   },
+  "icon": "images/logo.png",
   "publisher": "FernandoTimo",
   "author": {
     "name": "Fernando Timo"
   },
   "license": "MIT",
-  "homepage": "https://github.com/FernandoTimo/Settings",
+  "homepage": "https://github.com/FernandoTimo/vsCode-Themes/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FernandoTimo/Settings"
+    "url": "https://github.com/FernandoTimo/vsCode-Themes"
   },
   "bugs": {
-    "url": "https://github.com/FernandoTimo/Settings/issues"
+    "url": "https://github.com/FernandoTimo/vsCode-Themes/issues"
   },
   "categories": [
     "Themes"
@@ -40,6 +41,5 @@
         "path": "./themes/Ruby.json"
       }
     ]
-  },
-  "icon": "logo.png"
+  }
 }
