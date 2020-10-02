@@ -8,7 +8,7 @@
 
 **_MacOS_**
 
-![Esmeralda](https://github.com/FernandoTimo/vsCode-Themes/blob/master/images/Themes/Esmeralda-MacOS.png?raw=true)
+![Esmeralda](https://raw.githubusercontent.com/FernandoTimo/vsCode-Themes/master/images/Themes/Esmeralda-MacOS.png)
 
 **_Windows_**
 
