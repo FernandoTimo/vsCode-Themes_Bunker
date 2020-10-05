@@ -88,8 +88,8 @@
     "foreground": "#3b9",
 
     "terminal.background": "#000a0a",
-    "terminal.foreground": "#f55",
-    "terminalCursor.foreground": "#fc6",
+    "terminal.foreground": "#175",
+    "terminalCursor.foreground": "#f55",
     "terminal.selectionBackground": "#3b9",
 
     "menubar.selectionBorder": "#0000",
