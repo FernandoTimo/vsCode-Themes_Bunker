@@ -26,24 +26,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Timoideas - [Dark] Diamante",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Diamante.json"
-      },
-      {
         "label": "Timoideas - [Dark] Obsidiana",
         "uiTheme": "vs-dark",
         "path": "./themes/Obsidiana.json"
       },
       {
-        "label": "Timoideas - [Dark] Esmeralda",
+        "label": "Timoideas - Esmeralda [SOFT]",
         "uiTheme": "vs-dark",
-        "path": "./themes/Esmeralda.json"
+        "path": "./themes/Esmeralda_Soft.json"
       },
       {
-        "label": "Timoideas - [Dark] Ruby",
+        "label": "Timoideas - Esmeralda [HARD]",
         "uiTheme": "vs-dark",
-        "path": "./themes/Rubi.json"
+        "path": "./themes/Esmeralda_Hard.json"
       }
     ]
   }
