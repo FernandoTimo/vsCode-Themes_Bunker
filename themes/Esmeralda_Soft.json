@@ -14,7 +14,6 @@
     "menu.selectionBackground": "#022",
     "menu.selectionForeground": "#2a7",
     "menu.selectionBorder": "#2a7",
-
     "activityBar.background": "#011",
     "activityBar.activeBackground": "#022",
     "activityBar.foreground": "#fb0",
@@ -24,11 +23,9 @@
     "activityBar.inactiveForeground": "#2a7",
     "activityBarBadge.background": "#0ef",
     "activityBarBadge.foreground": "#000000",
-
     "statusBar.background": "#022",
     "statusBar.foreground": "#3b9",
     "statusBarItem.hoverBackground": "#011",
-
     "sideBarTitle.foreground": "#fb0a",
     "sideBarSectionHeader.background": "#000c0c",
     "sideBarSectionHeader.foreground": "#2f9",
@@ -50,7 +47,6 @@
     "gitDecoration.conflictingResourceForeground": "#f22",
     "gitDecoration.deletedResourceForeground": "#f53",
     "gitDecoration.submoduleResourceForeground": "#0af",
-
     "editorGroupHeader.tabsBackground": "#011",
     "tab.activeBackground": "#022",
     "tab.activeForeground": "#2f9",
@@ -61,7 +57,6 @@
     "breadcrumb.background": "#011",
     "breadcrumb.foreground": "#176",
     "breadcrumb.focusForeground": "#f55",
-
     "editorGutter.background": "#011",
     "editor.background": "#011",
     "minimap.background": "#011",
@@ -77,7 +72,6 @@
     "minimap.warningHighlight": "#fc6",
     "minimap.errorHighlight": "#f55",
     "minimap.selectionHighlight": "#3b9",
-
     "panel.background": "#000a0a",
     "panelTitle.activeForeground": "#4fa",
     "panelTitle.activeBorder": "#4fa",
@@ -86,12 +80,10 @@
     "dropdown.foreground": "#3b9",
     "dropdown.border": "#4fa",
     "foreground": "#3b9",
-
     "terminal.background": "#000a0a",
     "terminal.foreground": "#175",
     "terminalCursor.foreground": "#f55",
     "terminal.selectionBackground": "#3b9",
-
     "menubar.selectionBorder": "#0000",
     "menu.border": "#0000",
     "titleBar.border": "#0000",
@@ -167,7 +159,6 @@
     "editorWidget.foreground": "#23fff4",
     "editorWidget.resizeBorder": "#23fff4",
     "editorSuggestWidget.border": "#0000",
-
     "scrollbarSlider.activeBackground": "#00ff80",
     "scrollbarSlider.hoverBackground": "#00ff80cc",
     "errorLens.hintBackground": "#0000",
@@ -182,7 +173,6 @@
     "errorLens.infoBackground": "#ffc4c4",
     "errorLens.infoForeground": "#ffc4c4",
     "errorLens.infoMessageBackground": "#ffc4c4",
-
     "gitlens.trailingLineBackgroundColor": "#ff880000",
     "gitlens.trailingLineForegroundColor": "#ff8800aa",
     "gitlens.gutterBackgroundColor": "#000000",
@@ -199,10 +189,8 @@
     "inputOption.activeBackground": "#4416af",
     "inputOption.activeBorder": "#4416af",
     "inputOption.activeForeground": "#ffc400",
-
     "editorSuggestWidget.highlightForeground": "#ff8282",
     "list.highlightForeground": "#00ff80",
-
     "panel.border": "#0000",
     "quickInput.background": "#000000",
     "quickInput.foreground": "#00ff80aa",
