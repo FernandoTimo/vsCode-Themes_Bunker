@@ -26,24 +26,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Timoideas - Obsidiana",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Obsidiana.json"
-      },
-      {
-        "label": "Timoideas - Fire",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Fire.json"
-      },
-      {
         "label": "Timoideas - Esmeralda Soft",
         "uiTheme": "vs-dark",
         "path": "./themes/Esmeralda_Soft.json"
       },
       {
+        "label": "Timoideas - Sailor Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sailor_Pink.json"
+      },
+      {
         "label": "Timoideas - Esmeralda Shine",
         "uiTheme": "vs-dark",
         "path": "./themes/Esmeralda_Hard.json"
+      },
+      {
+        "label": "Timoideas - Obsidiana",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Obsidiana.json"
       }
     ]
   }
