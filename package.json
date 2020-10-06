@@ -26,17 +26,22 @@
   "contributes": {
     "themes": [
       {
-        "label": "Timoideas - [Dark] Obsidiana",
+        "label": "Timoideas - Obsidiana",
         "uiTheme": "vs-dark",
         "path": "./themes/Obsidiana.json"
       },
       {
-        "label": "Timoideas - Esmeralda [SOFT]",
+        "label": "Timoideas - Fire",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fire.json"
+      },
+      {
+        "label": "Timoideas - Esmeralda Soft",
         "uiTheme": "vs-dark",
         "path": "./themes/Esmeralda_Soft.json"
       },
       {
-        "label": "Timoideas - Esmeralda [HARD]",
+        "label": "Timoideas - Esmeralda Shine",
         "uiTheme": "vs-dark",
         "path": "./themes/Esmeralda_Hard.json"
       }
