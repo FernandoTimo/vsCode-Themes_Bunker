@@ -2,7 +2,7 @@
   "name": "timoideas-themes",
   "displayName": "Timoideas - Themes",
   "description": "Themes",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "engines": {
     "vscode": "^1.12.0"
   },
@@ -44,6 +44,11 @@
         "label": "Timoideas - Obsidiana Shine",
         "uiTheme": "vs-dark",
         "path": "./themes/Obsidiana_Shine.json"
+      },
+      {
+        "label": "Timoideas - Covid 19",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Covid_19.json"
       }
     ]
   }
