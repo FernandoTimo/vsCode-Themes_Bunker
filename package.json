@@ -44,11 +44,6 @@
         "label": "Timoideas - Obsidiana Shine",
         "uiTheme": "vs-dark",
         "path": "./themes/Obsidiana_Shine.json"
-      },
-      {
-        "label": "Timoideas - Covid 19",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Covid_19.json"
       }
     ]
   }
