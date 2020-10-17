@@ -2,7 +2,7 @@
   "name": "timoideas-themes",
   "displayName": "Timoideas - Themes",
   "description": "Themes",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "engines": {
     "vscode": "^1.12.0"
   },
@@ -49,6 +49,11 @@
         "label": "Timoideas - Covid 19",
         "uiTheme": "vs-dark",
         "path": "./themes/Covid_19.json"
+      },
+      {
+        "label": "Timoideas - Desert Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Desert_Soft.json"
       },
       {
         "label": "Timoideas - Earth Soft",
