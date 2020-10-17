@@ -49,6 +49,11 @@
         "label": "Timoideas - Covid 19",
         "uiTheme": "vs-dark",
         "path": "./themes/Covid_19.json"
+      },
+      {
+        "label": "Timoideas - Earth Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Earth_Soft.json"
       }
     ]
   }
