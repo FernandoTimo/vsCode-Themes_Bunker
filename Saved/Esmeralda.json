@@ -1,0 +1,221 @@
+"[Timoideas - Esmeralda Sodft]": {
+
+  // CONTORNO
+  "titleBar.activeBackground": "#011", // BG ARRIBA 💎💎
+  "titleBar.activeForeground": "#2a7", //COlOR BARRA DE ARRIBA 🌴
+  "titleBar.inactiveBackground": "#011", // BG WINDOW INACTIVE
+  "titleBar.inactiveForeground": "#3b9", // COLOR WINDOW INACTIVE
+  "menubar.selectionBackground": "#022", // HOVER BG
+  "menubar.selectionForeground": "#3b9", // HOVER COLOR
+  "menu.background": "#011", // BG LIST
+  "menu.foreground": "#3b9", //  COLOR LIST
+  "menu.separatorBackground": "#3b9", // MENUBAR SEPARATORS LINE
+  "menu.selectionBackground": "#022", // BG SELECTION ITEM
+  "menu.selectionForeground": "#fb0", // COLOR SELECTION ITEM
+  "menu.selectionBorder": "#fb0", // BORDER SELECTION ITEM
+  //
+  "activityBar.background": "#011", // BG LATERAL 💎💎
+  "activityBar.activeBackground": "#022", // LOGO ACTIVE
+  "activityBar.foreground": "#fb0", // LOGOS HOVER & ACTUAL 🌴
+  "activityBar.activeBorder": "#fb0", // BORDER ICON ACTIVE IZQUIERDA
+  "activityBar.activeFocusBorder": "#fb05", // BORDER ON ACTIVE
+  "activityBar.dropBorder": "#fb05", // DROP BORDER
+  "activityBar.inactiveForeground": "#2a7", // COLOR LOGOS INACTIVE
+  "activityBarBadge.background": "#ffc400", // BG GIT COMMITS
+  "activityBarBadge.foreground": "#022", // COLOR GIT COMMITS
+  //
+  "statusBar.background": "#022", // BG HORIZONTAL 💎💎
+  "statusBar.foreground": "#3a9", // COlOR BARRA DE ABAJO
+  "statusBarItem.hoverBackground": "#011", // BG HOVER
+  // * INTERIOR
+  "sideBarTitle.foreground": "#fb0", // EXPLORER VSCODE IZQUIERDA
+  "sideBarSectionHeader.background": "#000c0c", // BG SECCIONES 💎💎
+  "sideBarSectionHeader.foreground": "#ffc400", // COLOR SECCIONES
+  "badge.background": "#fb0", // UNSAVED FILES BG
+  "badge.foreground": "#1d1b07", // UNSAVED FILES COLOR
+  "sideBar.background": "#000b0b", // BG PRINCIPAL💎💎
+  "sideBar.foreground": "#2a7", // COLOR FILES
+  "list.inactiveSelectionBackground": "#022", // BG ACTIVE FILE
+  "list.inactiveSelectionForeground": "#ffc400", // COLOR ACTIVE FILE
+  "list.hoverBackground": "#022", // BG HOVER FILE
+  "list.hoverForeground": "#ffc400", // COLOR HOVER FILE
+  "list.focusForeground": "#2f9", // COLOR HOVER FILE ACTIVE
+  "list.activeSelectionBackground": "#022", // BG SELECTED FILE
+  "list.activeSelectionForeground": "#ffc400", // COLOR SELECTED FILE
+  "gitDecoration.modifiedResourceForeground": "#2f9", // FILES SIN COMMIT GIT
+  "gitDecoration.ignoredResourceForeground": "#376", // FILES .GITIGNORE
+  "gitDecoration.untrackedResourceForeground": "#8fc", // FILE NEW GIT
+  "list.errorForeground": "#fb0", // FILE WITH ERROR GIT
+  "list.dropBackground": "#0228", // FILE ON DROP BG
+  "gitDecoration.addedResourceForeground": "#40f", // FILE ADDED GIT
+  "gitDecoration.conflictingResourceForeground": "#f22", // FILE CONFLICT GIT
+  "gitDecoration.deletedResourceForeground": "#f53", // FILE DELETED GIT
+  "gitDecoration.submoduleResourceForeground": "#0af", // FILE SUBMODULE GIT
+  //
+  "editorGroupHeader.tabsBackground": "#011", // BG HORIZONTAL 💎💎
+  "tab.activeBackground": "#011", // BG VENTANA ACTIVA
+  "tab.activeForeground": "#ffc400", // COLOR VENTANA ACTIVA
+  "tab.inactiveBackground": "#011", // BG VENTANA INACTIVA
+  "tab.inactiveForeground": "#3b9", // COLOR VENTANA INACTIVA
+  "tab.hoverBackground": "#011", // BG HOVER VENTANA
+  "tab.hoverForeground": "#ffc400", // VENTANA HOVER COLOR
+  "tab.hoverBorder": "#ffc400", // VENTANA HOVER BORDER
+  "editorGroup.dropBackground": "#022a", // VENTANA DROP BG
+  "breadcrumb.background": "#011", // PATH BG
+  "breadcrumb.foreground": "#3b9", // PATH COLOR
+  "breadcrumb.focusForeground": "#f55", // PATH FOCUS COLOR
+  // * EDITOR
+  "editorGutter.background": "#011", // COUNTER BG
+  "editor.background": "#011", // BG PRINCIPAL 💎💎
+  "minimap.background": "#011", // MINIMAPA BG
+  "editorOverviewRuler.background": "#011", // NAVEGADOR BG
+  "editorLineNumber.foreground": "#374b44", // NUMERO DE LINEA COLOR
+  "editorIndentGuide.background": "#f55", // LINEAS INACTIVE
+  "editorIndentGuide.activeBackground": "#90f", // LINEAS ACTIVE
+  "editor.lineHighlightBackground": "#3b92", // LINEA ACTUAL BG
+  "editor.lineHighlightBorder": "#3b9", // LINEA ACTUAL BORDER
+  "editor.selectionBackground": "#3b95", // SELECCION
+  "editorWhitespace.foreground": "#176", // SELECTION POINTS
+  "editorCodeLens.foreground": "#f55", // CODE LENS TOP LINE GITHUB 😴
+  "minimapSlider.background": "#1762", // MINIMAPA SLIDER BG
+  "minimapSlider.hoverBackground": "#1761", // MINIMAPA SLIDER HOVER BG
+  "minimapSlider.activeBackground": "#1762", // MINIMAPA SLIDER ACTIVE BG
+  "minimap.findMatchHighlight": "#2f9", // MINIMAP FIND HIGHTLIGHT
+  "minimap.warningHighlight": "#fc6", // MINIMAP WARNING HIGHTLIGHT 2
+  "minimap.errorHighlight": "#f55", // MINIMAP ERROR HIGHTLIGHT
+  "minimap.selectionHighlight": "#176", // MINIMAP CODE HIGHTLIGHT
+  "minimapGutter.addedBackground": "#cbffef", // MININAP GUTTER ADDED CODE
+  "minimapGutter.deletedBackground": "#f55", // MININAP GUTTER DELETED
+  "minimapGutter.modifiedBackground": "#3b9", // MININAP GUTTER MODIFIED
+  "editor.selectionHighlightBackground": "#244", // FRASE ACTUAL DE CODIGO BG
+  "editorHoverWidget.background": "#011", // COLORPICKER BG
+  "editor.inactiveSelectionBackground": "#00ff8033", // SELECCION DE TEXTO INACTIVA
+  "editorSuggestWidget.background": "#011", // LISTA DE AUTOCOMPLETADO BG
+  "editorSuggestWidget.foreground": "#2a7", // LISTA DE AUTOCOMPLETADO COLOR
+  "editorSuggestWidget.selectedBackground": "#022", // LISTA DE AUTOCOMPLETADO SELECTED
+  "editorSuggestWidget.highlightForeground": "#ffc400", // LISTA DE AUTOCOMPLETADO WORDSMATCH COLOR
+  "editorGutter.foldingControlForeground": "#ffc400", // GUTTER FOLDING COLOR
+  "editorBracketMatch.background": "#244", // PAIR BRACKETS BG
+  "editorBracketMatch.border": "#ffc400", // PAIR BRACKETS BORDER
+  "editorGutter.modifiedBackground": "#3b9", // GUTTER MODIFIED BG
+  "editorGutter.deletedBackground": "#f55", // GUTTER DELETED BG
+  "editorGutter.addedBackground": "#cbffef", // GUTTER ADDED BG
+  "editorCursor.foreground": "#ffc400", // TEXT CURSOR COLOR
+  "editorHoverWidget.foreground": "#3b9", // FRASE HOVER CUADRO COLOR
+  "editorHoverWidget.border": "#3b9", // FRASE HOVER CUADRO BORDER
+  "editor.hoverHighlightBackground": "#244", // FRASE HOVER BG
+  "editor.foldBackground": "#022", // CODIGO COLAPSADO BG
+  "editorUnnecessaryCode.opacity": "#000a", // CODE UNUSED OPACITY
+  "errorLens.hintMessageBackground": "#022", // ERROR LENS UNUSED BG
+  "errorLens.hintForeground": "#4fa", // ERROR LENS UNUSED COLOR
+  "errorLens.errorMessageBackground": "#310", // ERROR LENS MESSAGE BG ERROR
+  "errorLens.errorForeground": "#f55", // ERROR LENS MESSAGE COLOR ERROR
+  "errorLens.warningForeground": "#ffc400", // ERROR LENS WARNING MESSAGE COLOR
+  "errorLens.warningMessageBackground": "#210", // ERROR LENS WARNING CODELINE MESSAGE COLOR BG
+  "gitlens.trailingLineForegroundColor": "#66887c", // GIT LENS LAST COMMIT COLOR
+
+  //* TERMINAL PICKER CORDER AND COLOR SELECTED
+  "panel.background": "#000b0b", // BG HEADER 💎💎
+  "panelTitle.activeForeground": "#4fa", // COLOR ACTIVE
+  "panelTitle.activeBorder": "#4fa", // UNDERLINE
+  "panelTitle.inactiveForeground": "#3b9", // COLOR INACTIVE
+  "dropdown.background": "#011", // BG PICKER
+  "dropdown.foreground": "#ffc400", // COLOR PICKER
+  "dropdown.border": "#ffc400", // BORDER PICKER
+  "foreground": "#3b9", // COLOR GENERAL
+  "panel.dropBorder": "#ffc400", // BORDER LATERAL DROP
+  //
+  "terminal.background": "#000b0b", // BG PRINCIPAL 💎💎
+  "terminal.foreground": "#3b9", // TERMINAL COLOR GENERAL
+  "terminalCursor.foreground": "#ffc400", // CURSOR TEXT
+  "terminal.selectionBackground": "#3b91", // AREA SELECTION BG
+  "dropdown.listBackground": "#000a0a", // LIST PICKER OPTIONS BG
+  // GLOBALS
+  "scrollbarSlider.background": "#3b95", // SCROLLBAR BG
+  "scrollbarSlider.activeBackground": "#3b95", // SCROLLBAR ACTIVE BG
+  "scrollbarSlider.hoverBackground": "#3b95", // SCROLLBAR HOVER BG
+  "icon.foreground": "#ffc400", // ICONS COLOR
+  "focusBorder": "#4fa", // INPUT BORDER FOCUS
+  "input.foreground": "#4fa", // INPUT COLOR
+  "input.background": "#011", // INPUT BGE
+  "input.border": "#66887c", // INPUT BORDER
+  "input.placeholderForeground": "#66887c", // INPUT COLOR PLACEHOLDER
+  "inputOption.activeBackground": "#4416af", // INPUT OPTIONS BG
+  "inputOption.activeBorder": "#ffc400", // INPUT OPTIONS BG COLOR
+  "inputOption.activeForeground": "#ffc400", // INPUT OPTIONS BG COLOR
+  "button.background": "#ffc400", // BOTONES PRIMARIOS BG
+  "button.foreground": "#022", // BOTONES PRIMARIOS COLOR
+  "button.hoverBackground": "#ffd037", // BOTONES PRIMARIOS HOVER BG
+  "quickInput.background": "#011", // LISTA DE BÚSQUEDA BG
+  "quickInput.foreground": "#2a7", // LISTA DE BÚSQUEDA COLOR
+  "list.focusBackground": "#022", // LISTA DE BÚSQUEDA SELECTED BG
+  "list.highlightForeground": "#ffc400", // LISTA DE BÚSQUEDA WORDSMATCH COLOR
+  "pickerGroup.foreground": "#ffc400", // LISTA DE BÚSQUEDA SECTION COLOR
+  "pickerGroup.border": "#ffc400", // LISTA DE BÚSQUEDA SEPARATOR BORDER
+  "descriptionForeground": "#3b9", // DESCRIPCIONES GENERALES COLOR
+  "checkbox.background": "#011", // CHECKBOX BG
+  "checkbox.foreground": "#ffc400", // CHECKBOX COLOR
+  "checkbox.border": "#ffc400", // CHECKBOX BORDER
+  "editor.foreground": "#2a7", // COLOR GENERAL DEL EDITOR
+  "editorWidget.background": "#011", // VENTANAS EMERGENTES BG
+  "editorWidget.foreground": "#2a7", // VENTANAS EMERGENTES COLOR
+  "editorWidget.resizeBorder": "#2a7", // VENTANAS EMERGENTES REZIZE
+  //* TRANSPARENT
+  "menubar.selectionBorder": "#0000", // MENUBAR HOVER BORDER
+  "menu.border": "#0000", //  MENUBAR BORDER LIST
+  "titleBar.border": "#0000", //BARRA DE ARRIBA BORDER
+  "tab.activeBorder": "#0000", // BORDER VENTANA ACTIVA TOP
+  "tab.activeBorderTop": "#0000", // BORDER VENTANA ACTIVA TOP
+  "tab.border": "#0000", // BORDER LATERALES VENTANAS TOP
+  "activityBar.border": "#0000", // LOGOS LATERAL BORDER
+  "statusBar.border": "#0000", //BARRA DE ABAJO BORDER
+  "scrollbar.shadow": "#0000", // SCROLLBAR SHADOW
+  "panel.border": "#0000", // CONSOLE BORDER
+  "contrastActiveBorder": "#0000", // TAB ACTIVE CONTRAST BORDER
+  "sideBar.border": "#0000", // BORDER DE BARRA DE CARPETAS
+  "contrastBorder": "#0000", // BORDER BARRA DE CARPETAS SECCIONES
+  "editorGroup.border": "#0000", // SEPARADOR DE VENTANAS BORDER COLOR
+  "editorOverviewRuler.border": "#0000", // NAVIGATE BY COLORS BORDER
+  "editorGroupHeader.tabsBorder": "#0000", // BORDER URL PATH TOP
+  "editorGroupHeader.border": "#0000", // BORDER URL PATH BOT
+  "editorSuggestWidget.border": "#0000", // LISTA DE AUTOCOMPLETADO BORDER
+  "editor.selectionHighlightBorder": "#0000", // FRASE ACTUAL DE CODIGO BORDER
+  "editorUnnecessaryCode.border": "#0000", // CODE UNUSED BORDERBOTTOM
+  "errorLens.hintBackground": "#0000", // ERROR LENS CODELINE BG HINT
+  "errorLens.errorBackground": "#0000", // ERROR LENS CODELINE BG ERROR
+  "errorLens.warningBackground": "#0000", // ERROR LENS WARNING CODELINE BG
+  "gitlens.trailingLineBackgroundColor": "#0000", // GIT LENS LAST COMMIT BG
+  // GLOBAL
+  "editorError.foreground": "#ffc400", //VEMTAMAS EMERGENTES COLOR ERROR
+  "diffEditor.border": "#0000", // GIT CHANGES CUADRO
+  "diffEditor.diagonalFill": "#4416af88", // GIT CHANGES CUADRO
+  "diffEditor.insertedTextBackground": "#0400ff55", // GIT CHANGES CUADRO
+  "diffEditor.insertedTextBorder": "#0000", // GIT CHANGES CUADRO
+  "diffEditor.removedTextBackground": "#4416af88", // GIT CHANGES CUADRO
+  "diffEditor.removedTextBorder": "#0000", // GIT CHANGES CUADRO
+  // CODIGO
+  "tab.activeModifiedBorder": "#ff00ff",
+  "editor.findMatchBackground": "#240f53", // ACTUAL FIN MATCH BG
+  "editor.findMatchBorder": "#ffc400", // ACTUAL FIN MATCH BORDER
+  "editor.findMatchHighlightBackground": "#4416af", // ALL FIND MACH BG BORDER
+  "editor.findMatchHighlightBorder": "#23fff4", // ALL FIND MACH BG BORDER
+  "editor.rangeHighlightBackground": "#4416af88", // FIND MATCH LINE BG BORDER
+  "editor.rangeHighlightBorder": "#ffc400", // FIND MATCH LINE BG BORDER
+  "editor.snippetFinalTabstopHighlightBorder": "#00ff80", // SNIPPETS BG
+  "editor.snippetTabstopHighlightBackground": "#4416afaa", // SNIPPETS BG
+  "editor.snippetTabstopHighlightBorder": "#4416afaa", // SNIPPETS BG
+  "editorCursor.background": "#ff0000", // TEXT CURSOR BG
+  "editor.selectionForeground": "#ff0000", //Linea completa BG
+  "editor.wordHighlightBackground": "#4416af", // MATCH TEXT COLOR BORDER
+  "editor.wordHighlightBorder": "#ffc400", // MATCH TEXT COLOR BORDER
+  "editor.wordHighlightStrongBackground": "#4416af", // MATCH TEXT COLOR BORDER
+  "editor.wordHighlightStrongBorder": "#23fff4", // MATCH TEXT COLOR BORDER
+  "errorLens.infoBackground": "#ffc4c4", // ERROR LENS CODELINE MESSAGE BG
+  "errorLens.infoForeground": "#ffc4c4", // ERROR LENS CODELINE MESSAGE COLOR
+  "errorLens.infoMessageBackground": "#ffc4c4", // ERROR LENS CODELINE MESSAGE BG
+  "gitlens.gutterBackgroundColor": "#0000", // GIT COMIITS INFO bg
+  "gitlens.gutterForegroundColor": "#ffc400", // GIT COMIITS INFO
+  "gitlens.gutterUncommittedForegroundColor": "#82fff5", // GIT COMIITS INFO
+  "gitlens.lineHighlightBackgroundColor": "#4416af", // GIT BG COMMIT INFO
+  "errorForeground": "#ff8989", //ERROR COLOR GENERAL
+},

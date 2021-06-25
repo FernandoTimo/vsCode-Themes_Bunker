@@ -2,7 +2,7 @@
   "name": "timoideas-themes",
   "displayName": "Timoideas - Themes",
   "description": "Themes",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "engines": {
     "vscode": "^1.12.0"
   },
